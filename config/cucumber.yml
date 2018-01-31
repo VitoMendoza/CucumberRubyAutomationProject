@@ -1,0 +1,5 @@
+# config/cucumber.yml
+##YAML Template
+---
+default: --tags ~@ignore --profile html_report
+html_report: --tags ~@ignore --format progress --format html --out=report.html
