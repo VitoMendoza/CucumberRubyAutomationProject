@@ -1,7 +1,10 @@
 # Cucumber Test
 
 
-## Execution
+## Install
+* Install capybara and cucumber gems
+
+# Execution
 * Execute the "cucumber" command in CMD from project folder
 
 # Results
